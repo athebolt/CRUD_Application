@@ -1,0 +1,4 @@
+123456,Chevrolet,Cruize,Black,2017
+654321,Chevrolet,Silverado,White,2024
+111222,Ford,Mustang,Black,2024
+345123,Jeep,Renegade,Green,2023
